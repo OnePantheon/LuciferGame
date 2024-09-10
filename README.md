@@ -1,2 +1,3 @@
 # LuciferGame
-A project written in C for a session 
+
+One Panthéon Année 2 (2023-2024) - Projet archivé
